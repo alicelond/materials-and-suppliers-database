@@ -1,4 +1,4 @@
-rivate Sub InserirFornecedores_Click()
+Private Sub InserirFornecedores_Click()
     ' Cadastra os materiais nas células corretas
     Call Cadastrar
     
